@@ -23,7 +23,7 @@ MedVault is a full‑stack healthcare management system designed to streamline p
 * React.js
 * JavaScript / TypeScript
 * Axios
-* CSS / Tailwind (if used)
+* CSS / Tailwind 
 
 ### **Backend**
 
@@ -34,7 +34,7 @@ MedVault is a full‑stack healthcare management system designed to streamline p
 
 ### **Database**
 
-* (Add your DB: MySQL / PostgreSQL / MongoDB)
+* MySQL
 
 ---
 
@@ -88,12 +88,6 @@ Create `.env` files for frontend & backend as needed (e.g., API URLs, DB credent
 
 ---
 
-## 📸 Screenshots
-
-(Add application screenshots here later)
-
----
-
 ## 🧩 Future Enhancements
 
 * JWT-based session management
@@ -101,15 +95,7 @@ Create `.env` files for frontend & backend as needed (e.g., API URLs, DB credent
 * Payments integration
 * Deployment on cloud (AWS / Render / Vercel)
 
----
-
-## 📜 License
-
-This project is open for educational and portfolio use. Add a LICENSE file if needed.
-
----
-
-## 👨‍💻 Author
+LICENSE
 
 **Abhinaw Siddharth**
 GitHub: [https://github.com/Abhinaw14](https://github.com/Abhinaw14)
